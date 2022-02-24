@@ -1,0 +1,13 @@
+.imagetest img {
+//  width: 100% ;
+//  image-rendering: crisp-edges ;
+}
+.no-wrap {
+  white-space: nowrap ;
+}
+h2.date {
+  margin: 10px;
+}
+p.state {
+  margin: 20px;
+}
